@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows;
 
-namespace PathBasedAnimation
+namespace WPF_Anim_PathBasedAnimation_Ex
 {
 	
 	class ArchimedeanSpiral

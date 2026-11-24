@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace PathBasedAnimation
+namespace WPF_Anim_PathBasedAnimation_Ex
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

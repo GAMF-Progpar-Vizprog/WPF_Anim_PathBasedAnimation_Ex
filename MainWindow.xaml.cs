@@ -6,7 +6,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 
 
-namespace PathBasedAnimation
+namespace WPF_Anim_PathBasedAnimation_Ex
 {
 	public partial class MainWindow : Window
 	{
